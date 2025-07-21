@@ -102,6 +102,7 @@ div.campo > input {
 div.campo > input:focus-within {
     background-color: white;   
 }
+
 form > input[type=submit] {
     display: block;
     font-size: 1.4em;
